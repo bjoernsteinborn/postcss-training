@@ -1,0 +1,26 @@
+{
+  "name": "postcss-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sass": "^3.1.0",
+    "postcss-assets": "^4.1.0",
+    "postcss-cachebuster": "^0.1.4",
+    "postcss-em-media-query": "^2.0.0",
+    "postcss-pxtorem": "^4.0.0",
+    "postcss-secmodify": "^1.0.1",
+    "usedcss": "^1.0.7"
+  }
+}
